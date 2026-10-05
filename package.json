@@ -5,7 +5,7 @@
   "description": "Explosion-Proof & Marine-Grade PTZ Camera Housing Engineering Center",
   "scripts": {
     "dev": "next dev",
-    "build": "opennextjs-cloudflare build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
