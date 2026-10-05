@@ -1,0 +1,660 @@
+[
+  {
+    "id": "exptz-316l-pro",
+    "name": "EXPTZ-316L Pro",
+    "slug": "exptz-316l-pro",
+    "category": "explosion-proof",
+    "categoryName": "Explosion-Proof",
+    "description": "Premium ATEX-certified explosion-proof PTZ camera housing crafted from solid 316L stainless steel. Engineered for Zone 1 & Zone 2 hazardous areas with Ex d IIC T6 Gb / Ex tb IIIC T80°C Db dual certification. Integrated intelligent heating, defogging, and wiper systems for mission-critical surveillance in the harshest environments.",
+    "shortDescription": "ATEX/IECEx dual-certified 316L stainless steel PTZ housing for Zone 1/2 hazardous areas.",
+    "price": 2850,
+    "material": "Marine-Grade SS316L (EN 1.4404)",
+    "materialGrade": "316L Stainless Steel",
+    "exProofRating": "Ex d IIC T6 Gb / Ex tb IIIC T80°C Db",
+    "ipRating": "IP68 / IP69K",
+    "tempRange": "-40°C to +60°C",
+    "weight": "28 kg net (45 kg with mounting bracket)",
+    "finish": "Electropolished + Passivated",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "380 mm",
+      "usableDiameter": "165 mm",
+      "maxCameraSize": "350 × 150 × 145 mm",
+      "windowThickness": "12 mm tempered borosilicate"
+    },
+    "externalDimensions": {
+      "totalLength": "620 mm",
+      "bodyDiameter": "195 mm",
+      "sunshieldWidth": "230 mm"
+    },
+    "compatibility": [
+      "Axis Q60 Series",
+      "Bosch MIC IP",
+      "Hanwha PNM-9085",
+      "Hikvision DS-2DF",
+      "Dahua SD6C",
+      "Custom bracket available"
+    ],
+    "features": [
+      "Solid 316L investment-cast body with CNC finishing",
+      "Integrated silicone rubber O-ring sealing (IP68/IP69K)",
+      "Intelligent PTC heating with auto-defogging",
+      "Built-in wiper with multi-speed control",
+      "Sunshield with forced air convection design",
+      "Cable gland entries: 2× M25, 1× M20 (Ex d certified)",
+      "Earth bonding point, internal & external",
+      "RAL 7035 (Light Grey) or custom powder coating"
+    ],
+    "applications": [
+      "Oil & Gas Refineries (Zone 1 / Zone 2)",
+      "Chemical Processing Plants",
+      "LNG Storage Facilities",
+      "Offshore Drilling Platforms",
+      "Petrochemical Tank Farms"
+    ],
+    "imagePlaceholder": "exptz-316l-pro",
+    "featured": true
+  },
+  {
+    "id": "marinepro-ss304",
+    "name": "MarinePro SS304",
+    "slug": "marinepro-ss304",
+    "category": "marine-grade",
+    "categoryName": "Marine-Grade",
+    "description": "Purpose-built marine-grade PTZ camera enclosure optimized for offshore platforms, port terminals, and coastal infrastructure. Constructed from electropolished 304 stainless steel with enhanced anti-corrosion treatment. C5-M rated for extreme marine environments with 5000+ hours salt spray resistance. Dual IP68/IP69K ingress protection with proven typhoon-class wind resistance.",
+    "shortDescription": "C5-M marine-rated 304 stainless steel PTZ enclosure with 5000h+ salt spray resistance.",
+    "price": 1900,
+    "material": "Marine-Grade SS304 (EN 1.4301)",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "N/A — Non-hazardous area",
+    "ipRating": "IP68 / IP69K",
+    "tempRange": "-30°C to +55°C",
+    "weight": "22 kg net (36 kg with mounting bracket)",
+    "finish": "Electropolished + Nano-ceramic coating",
+    "certifications": ["ISO 9227 (C5-M)", "ISO 12944 (C5-M)", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "370 mm",
+      "usableDiameter": "158 mm",
+      "maxCameraSize": "340 × 145 × 140 mm",
+      "windowThickness": "10 mm tempered borosilicate"
+    },
+    "externalDimensions": {
+      "totalLength": "580 mm",
+      "bodyDiameter": "185 mm",
+      "sunshieldWidth": "220 mm"
+    },
+    "compatibility": [
+      "Axis Q61 Series",
+      "Bosch MIC Series",
+      "Hanwha WiseNet X",
+      "FLIR PT Series (thermal)",
+      "Hikvision DeepinView",
+      "Custom bracket available"
+    ],
+    "features": [
+      "Electropolished 304 SS body for maximum corrosion resistance",
+      "Nano-ceramic overcoat for salt spray protection (5000h+)",
+      "Heavy-duty wiper with marine-spec blade",
+      "Thermal management: PTC heater + air circulation fan",
+      "Dual O-ring seal system per mounting joint",
+      "Tropicalized PCB conformal coating for humidity",
+      "Wind load rated: 240 km/h (Category 4 typhoon)",
+      "Composite cable: fiber + copper, marine-rated jacket"
+    ],
+    "applications": [
+      "Port & Harbor Terminals",
+      "Offshore Oil & Gas Platforms",
+      "Coastal Border Surveillance",
+      "Marina & Yacht Facilities",
+      "Ship-to-Shore Crane Monitoring"
+    ],
+    "imagePlaceholder": "marinepro-ss304",
+    "featured": true
+  },
+  {
+    "id": "exptz-compact",
+    "name": "EXPTZ Compact",
+    "slug": "exptz-compact",
+    "category": "explosion-proof",
+    "categoryName": "Explosion-Proof",
+    "description": "Space-optimized explosion-proof fixed camera housing for tight installations where full-size PTZ enclosures won't fit. ATEX Zone 1 certified Ex d IIC T6 Gb in a compact 304 stainless steel body. Ideal for pipeline monitoring, tank gauging stations, and confined space surveillance in hazardous areas.",
+    "shortDescription": "Compact ATEX-certified fixed camera housing for space-constrained hazardous areas.",
+    "price": 1450,
+    "material": "SS304 Investment Cast (EN 1.4301)",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "Ex d IIC T6 Gb",
+    "ipRating": "IP68",
+    "tempRange": "-30°C to +55°C",
+    "weight": "8.5 kg net",
+    "finish": "Electropolished",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "220 mm",
+      "usableDiameter": "110 mm",
+      "maxCameraSize": "200 × 100 × 100 mm",
+      "windowThickness": "10 mm tempered borosilicate"
+    },
+    "externalDimensions": {
+      "totalLength": "340 mm",
+      "bodyDiameter": "140 mm",
+      "sunshieldWidth": "160 mm"
+    },
+    "compatibility": [
+      "Axis P56 Series",
+      "Bosch Flexidome",
+      "Hanwha XNB Series",
+      "Hikvision Darkfighter",
+      "Custom bracket available"
+    ],
+    "features": [
+      "Compact form factor for confined installations",
+      "SS304 precision investment cast body",
+      "Ex d flameproof protection method",
+      "Built-in heater (auto-activation at +5°C)",
+      "Tempered borosilicate sight glass, 10 mm",
+      "M20 Ex d cable gland entry (×2)",
+      "Internal & external earth bonding points",
+      "Wall/ceiling/pole mount compatible"
+    ],
+    "applications": [
+      "Pipeline Monitoring Stations",
+      "Tank Gauging Systems",
+      "Confined Space Surveillance",
+      "Compressor Station Monitoring",
+      "Flare Stack Observation"
+    ],
+    "imagePlaceholder": "exptz-compact",
+    "featured": false
+  },
+  {
+    "id": "marinecorr-titanium",
+    "name": "MarineCorr Ti Grade 2",
+    "slug": "marinecorr-titanium",
+    "category": "marine-grade",
+    "categoryName": "Marine-Grade",
+    "description": "The ultimate in corrosion resistance: Grade 2 commercially pure titanium PTZ housing. Designed for the world's most aggressive marine environments—splash zones, subsea monitoring, and tropical offshore platforms where even 316L eventually succumbs to chloride stress corrosion cracking. 25+ year design life in seawater immersion zones.",
+    "shortDescription": "Grade 2 titanium PTZ housing with 25+ year design life for extreme marine environments.",
+    "price": 8500,
+    "material": "Grade 2 Commercially Pure Titanium (ASTM B348)",
+    "materialGrade": "Titanium Grade 2",
+    "exProofRating": "N/A — Consult for custom ATEX variant",
+    "ipRating": "IP68 / IP69K (subsea rating available)",
+    "tempRange": "-50°C to +70°C",
+    "weight": "18 kg net (titanium lightweight)",
+    "finish": "Mill finish + passivated",
+    "certifications": ["DNV GL Type Approval (pending)", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "360 mm",
+      "usableDiameter": "155 mm",
+      "maxCameraSize": "330 × 145 × 140 mm",
+      "windowThickness": "14 mm sapphire glass option"
+    },
+    "externalDimensions": {
+      "totalLength": "560 mm",
+      "bodyDiameter": "180 mm",
+      "sunshieldWidth": "215 mm"
+    },
+    "compatibility": [
+      "FLIR M-Series (thermal + visible)",
+      "Axis Q62 Series",
+      "Bosch MIC 9000i",
+      "Custom bracket available"
+    ],
+    "features": [
+      "Grade 2 titanium body — immune to seawater corrosion",
+      "25+ year design life in submerged splash zone",
+      "Sapphire glass window option for ultimate durability",
+      "Titanium-grade wiper arm & blade assembly",
+      "Hermetically sealed cable penetrators",
+      "Tropical environment PCB coating",
+      "Full traceability: material certs per heat/lot",
+      "Optional sacrificial anode monitoring system"
+    ],
+    "applications": [
+      "Offshore Platform Splash Zones",
+      "Subsea Camera Deployments",
+      "Marine Biology Research Stations",
+      "Desalination Plant Monitoring",
+      "Tropical Deepwater Installations"
+    ],
+    "imagePlaceholder": "marinecorr-titanium",
+    "featured": true
+  },
+  {
+    "id": "exptz-pan-tilt-hd",
+    "name": "EXPTZ Pan-Tilt HD",
+    "slug": "exptz-pan-tilt-hd",
+    "category": "explosion-proof",
+    "categoryName": "Explosion-Proof",
+    "description": "Heavy-duty explosion-proof pan-tilt unit with integrated camera housing. Designed for large-format thermal/visible dual-sensor payloads used in perimeter security and flare stack monitoring. ATEX & IECEx dual certified for Zone 1 environments with 360° continuous pan and -90° to +90° tilt range.",
+    "shortDescription": "Heavy-duty pan-tilt with integrated housing for dual-sensor thermal payloads in Zone 1.",
+    "price": 4800,
+    "material": "Cast 316L Stainless Steel",
+    "materialGrade": "316L Stainless Steel",
+    "exProofRating": "Ex d IIC T6 Gb / Ex tb IIIC T85°C Db",
+    "ipRating": "IP68",
+    "tempRange": "-40°C to +65°C",
+    "weight": "42 kg net (65 kg with mounting)",
+    "finish": "Electropolished + Powder Coat RAL 9005",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "SIL 2 rated controls", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "420 mm",
+      "usableDiameter": "175 mm",
+      "maxCameraSize": "390 × 165 × 155 mm",
+      "windowThickness": "12 mm germanium (thermal) + 12 mm borosilicate"
+    },
+    "externalDimensions": {
+      "totalLength": "680 mm",
+      "bodyDiameter": "210 mm",
+      "sunshieldWidth": "250 mm"
+    },
+    "compatibility": [
+      "FLIR PT-606Z",
+      "Axis Q8750 Series",
+      "Bosch MIC IP fusion",
+      "Hanwha TNO-7180",
+      "Custom thermal/visible payload"
+    ],
+    "features": [
+      "360° continuous pan, -90° to +90° tilt",
+      "Dual window: germanium (thermal) + borosilicate (visible)",
+      "SIL 2 rated control electronics",
+      "Preset accuracy ±0.1°",
+      "Pan speed: 0.1° to 60° per second",
+      "Integrated absolute position encoder",
+      "Fiber optic rotary joint (FORJ) option",
+      "Marine-grade connectors, gold-plated contacts"
+    ],
+    "applications": [
+      "Perimeter Security (Critical Infrastructure)",
+      "Flare Stack Thermal Monitoring",
+      "Border Surveillance Towers",
+      "Military Base Protection",
+      "Nuclear Facility Security"
+    ],
+    "imagePlaceholder": "exptz-pan-tilt-hd",
+    "featured": true
+  },
+  {
+    "id": "exptz-ss304-economy",
+    "name": "EXPTZ-Economy SS304",
+    "slug": "exptz-economy-ss304",
+    "category": "explosion-proof",
+    "categoryName": "Explosion-Proof",
+    "description": "Cost-optimized explosion-proof PTZ housing without compromising safety certification. SS304 construction meeting Ex d IIC T6 Gb requirements for Zone 1 & Zone 2. Ideal for large-scale deployments in petrochemical tank farms, oil depots, and gas stations where budget efficiency meets mandatory ATEX compliance.",
+    "shortDescription": "Cost-optimized ATEX-certified 304 stainless steel PTZ housing for bulk deployments.",
+    "price": 1200,
+    "material": "SS304 Investment Cast (EN 1.4301)",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "Ex d IIC T6 Gb",
+    "ipRating": "IP67",
+    "tempRange": "-20°C to +50°C",
+    "weight": "18 kg net",
+    "finish": "Shot blasted + powder coat RAL 7035",
+    "certifications": ["ATEX 2014/34/EU", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "340 mm",
+      "usableDiameter": "150 mm",
+      "maxCameraSize": "310 × 140 × 135 mm",
+      "windowThickness": "10 mm tempered glass"
+    },
+    "externalDimensions": {
+      "totalLength": "540 mm",
+      "bodyDiameter": "175 mm",
+      "sunshieldWidth": "205 mm"
+    },
+    "compatibility": [
+      "Hikvision DS-2DF",
+      "Dahua SD6C",
+      "Axis Q60 (with adapter)",
+      "Custom bracket available"
+    ],
+    "features": [
+      "Budget-optimized without safety compromise",
+      "Cast SS304 body, Ex d flameproof method",
+      "Standard heater for defogging",
+      "Basic wiper option available (+$200)",
+      "Single M25 cable gland entry",
+      "Powder coat finish — RAL 7035 standard",
+      "Ideal for bulk deployment (50+ units)",
+      "Volume pricing: $950/unit at 20+ quantity"
+    ],
+    "applications": [
+      "Petrochemical Tank Farms",
+      "Oil Depots & Terminals",
+      "Gas Station Surveillance",
+      "LPG Storage Facilities",
+      "General Zone 2 Monitoring"
+    ],
+    "imagePlaceholder": "exptz-economy-ss304",
+    "featured": false
+  },
+  {
+    "id": "explight-led-100w",
+    "name": "EXLight LED-100W",
+    "slug": "explight-led-100w",
+    "category": "explosion-proof-light",
+    "categoryName": "Explosion-Proof Light",
+    "description": "High-output ATEX/IECEx-certified LED floodlight engineered for Zone 1 & Zone 2 hazardous area illumination. 100W LED array delivering 13,000 lumens with CRI >80 for accurate color rendition in process monitoring. Marine-grade 316L stainless steel body with tempered glass lens. 50,000-hour L70 rated LED lifespan eliminates routine bulb replacement in remote installations.",
+    "shortDescription": "100W ATEX LED floodlight, 13,000lm, 316L stainless steel for Zone 1/2 hazardous areas.",
+    "price": 850,
+    "material": "Marine-Grade SS316L Body + Tempered Glass Lens",
+    "materialGrade": "316L Stainless Steel + Borosilicate Glass",
+    "exProofRating": "Ex d IIC T6 Gb / Ex tb IIIC T80°C Db",
+    "ipRating": "IP68 / IP69K",
+    "tempRange": "-40°C to +55°C",
+    "weight": "12.5 kg net",
+    "finish": "Electropolished 316L SS + RAL 7035 Powder Coat",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "380 mm",
+      "usableDiameter": "160 mm",
+      "maxCameraSize": "N/A — Light fixture only",
+      "windowThickness": "8 mm tempered borosilicate glass"
+    },
+    "externalDimensions": {
+      "totalLength": "480 mm",
+      "bodyDiameter": "200 mm",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "Standard M25 cable gland entry",
+      "Pole mount bracket included",
+      "Wall mount adapter optional",
+      "Emergency battery backup option (+$350)"
+    ],
+    "features": [
+      "100W LED array — 13,000 lm output, CRI >80",
+      "50,000-hour L70 rated lifespan (no bulb changes)",
+      "Instant-on operation, no warm-up required",
+      "Wide beam angle: 120° flood, 60° spot option",
+      "Thermal management: passive heatsink + PTC cold-start heater",
+      "Stainless steel cable gland — M25 × 1.5 entry",
+      "Surge protection: 10kV (IEC 61643-11 Class II)",
+      "Optional emergency battery backup — 90 min runtime"
+    ],
+    "applications": [
+      "Oil Refinery Process Areas (Zone 1)",
+      "LNG Liquefaction Trains",
+      "Chemical Reactor Platforms",
+      "Tank Farm Perimeter Lighting",
+      "Offshore Drill Deck Floodlighting"
+    ],
+    "imagePlaceholder": "explight-led-100w",
+    "featured": true
+  },
+  {
+    "id": "explight-led-50w",
+    "name": "EXLight LED-50W",
+    "slug": "explight-led-50w",
+    "category": "explosion-proof-light",
+    "categoryName": "Explosion-Proof Light",
+    "description": "Compact ATEX-certified LED luminaire for confined hazardous area lighting. 50W LED delivering 6,500 lumens in a lightweight SS304 body. Optimized for pipeline corridors, compressor stations, and gas metering kiosks where mounting space is limited but safety certification is mandatory. Integrated driver with 100-277V AC universal input.",
+    "shortDescription": "Compact 50W ATEX LED light, 6,500lm for confined Zone 1/2 installations with limited mounting space.",
+    "price": 450,
+    "material": "SS304 Investment Cast Body + Borosilicate Glass",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "Ex d IIC T6 Gb",
+    "ipRating": "IP67",
+    "tempRange": "-30°C to +50°C",
+    "weight": "6.8 kg net",
+    "finish": "RAL 7035 Powder Coat over SS304",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "250 mm",
+      "usableDiameter": "120 mm",
+      "maxCameraSize": "N/A",
+      "windowThickness": "6 mm tempered borosilicate glass"
+    },
+    "externalDimensions": {
+      "totalLength": "340 mm",
+      "bodyDiameter": "155 mm",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "Standard M20 cable gland entry",
+      "Wall/Ceiling bracket included",
+      "Conduit entry M20 × 1.5",
+      "Emergency ballast option (+$250)"
+    ],
+    "features": [
+      "50W LED array — 6,500 lm, CRI >75",
+      "Compact form factor for confined spaces",
+      "Universal input 100-277V AC, 50/60Hz",
+      "Integrated driver — no external ballast needed",
+      "SS304 investment cast body, Ex d protection",
+      "M20 cable gland entry (×1)",
+      "Operating temperature -30°C to +50°C",
+      "Ideal for gas metering, pipeline, compressor stations"
+    ],
+    "applications": [
+      "Pipeline Corridor Lighting",
+      "Gas Metering Kiosks",
+      "Compressor Station Lighting",
+      "Valve Manifold Platforms",
+      "Confined Space Entry Lighting"
+    ],
+    "imagePlaceholder": "explight-led-50w",
+    "featured": false
+  },
+  {
+    "id": "exjb-316l-6way",
+    "name": "EXJB-316L 6-Way",
+    "slug": "exjb-316l-6way",
+    "category": "junction-box",
+    "categoryName": "Junction Box",
+    "description": "Heavy-duty explosion-proof junction box with 6 cable entries, engineered for Zone 1 & Zone 2 hazardous area power distribution and signal marshalling. Investment-cast 316L stainless steel body with Ex e increased safety terminals rated up to 400V/63A. Pre-certified ATEX & IECEx for rapid deployment in oil field, LNG, and chemical plant electrical infrastructure.",
+    "shortDescription": "6-entry ATEX/IECEx 316L stainless steel junction box, 400V/63A, Ex e increased safety terminals.",
+    "price": 580,
+    "material": "Investment Cast 316L Stainless Steel",
+    "materialGrade": "316L Stainless Steel",
+    "exProofRating": "Ex e IIC T6 Gb / Ex tb IIIC T80°C Db",
+    "ipRating": "IP68",
+    "tempRange": "-40°C to +55°C",
+    "weight": "8.2 kg net",
+    "finish": "Electropolished 316L",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "280 mm",
+      "usableDiameter": "140 mm",
+      "maxCameraSize": "N/A — Electrical enclosure",
+      "windowThickness": "N/A"
+    },
+    "externalDimensions": {
+      "totalLength": "360 mm",
+      "bodyDiameter": "175 mm",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "6 × M25 cable gland entries",
+      "2 × M20 auxiliary entries",
+      "Internal DIN rail (×2) — 280mm length",
+      "Terminals: 4mm² to 35mm² capacity",
+      "Custom entry configuration available"
+    ],
+    "features": [
+      "6 primary entries (M25) + 2 aux (M20) — braided flame path",
+      "Ex e increased safety terminals, cage-clamp type",
+      "Rated: 400V AC / 63A per terminal",
+      "Internal DIN rail ×2 for terminal/relay mounting",
+      "316L investment-cast body — no weld seams",
+      "Captive stainless steel lid bolts",
+      "Internal & external earth bonding studs",
+      "Laser-engraved terminal ID labels included"
+    ],
+    "applications": [
+      "Oil Field Power Distribution",
+      "LNG Plant Instrumentation Marshalling",
+      "Chemical Plant Fieldbus Junction",
+      "Tank Farm Level Sensor Wiring",
+      "Offshore Platform Cable Termination"
+    ],
+    "imagePlaceholder": "exjb-316l-6way",
+    "featured": true
+  },
+  {
+    "id": "exjb-ss304-4way",
+    "name": "EXJB-SS304 4-Way",
+    "slug": "exjb-ss304-4way",
+    "category": "junction-box",
+    "categoryName": "Junction Box",
+    "description": "Compact 4-entry explosion-proof junction box for Zone 2 hazardous area signal and power distribution. SS304 investment cast body with Ex e certified terminals. Ideal for gas detection loops, emergency shutdown (ESD) valve junction, and field instrument wiring — especially in desert environments where 304 grade provides sufficient corrosion protection at a competitive price point for the Middle East market.",
+    "shortDescription": "4-entry Zone 2 junction box, SS304 body, Ex e terminals. Optimized for Middle East desert conditions.",
+    "price": 320,
+    "material": "SS304 Investment Cast (EN 1.4301)",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "Ex e IIC T6 Gb",
+    "ipRating": "IP67",
+    "tempRange": "-20°C to +60°C",
+    "weight": "4.5 kg net",
+    "finish": "RAL 7035 Powder Coat",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "200 mm",
+      "usableDiameter": "110 mm",
+      "maxCameraSize": "N/A",
+      "windowThickness": "N/A"
+    },
+    "externalDimensions": {
+      "totalLength": "260 mm",
+      "bodyDiameter": "140 mm",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "4 × M20 cable gland entries",
+      "1 × M16 aux entry",
+      "Internal DIN rail ×1 — 180mm",
+      "Terminals: 2.5mm² to 16mm²",
+      "Pre-wired terminal strip option (+$75)"
+    ],
+    "features": [
+      "4 primary entries (M20) + 1 aux (M16)",
+      "Ex e increased safety terminals",
+      "Rated: 230V AC / 32A per terminal",
+      "SS304 body optimized for desert conditions",
+      "Silicone rubber O-ring lid seal",
+      "Captive lid screws — no dropped bolts on site",
+      "Cost-competitive for bulk Zone 2 deployments",
+      "8 weeks lead time for 100+ unit orders"
+    ],
+    "applications": [
+      "Gas Detection Loop Junction",
+      "ESD Valve Limit Switch Wiring",
+      "Field Instrument Cable Termination",
+      "Desert Oil Field Power Distribution",
+      "LPG Storage Facility Wiring"
+    ],
+    "imagePlaceholder": "exjb-ss304-4way",
+    "featured": false
+  },
+  {
+    "id": "excg-ss316l-m25",
+    "name": "EXCG-316L M25",
+    "slug": "excg-ss316l-m25",
+    "category": "cable-gland",
+    "categoryName": "Cable Gland",
+    "description": "ATEX/IECEx certified M25 barrier cable gland machined from solid 316L stainless steel bar stock. Ex d / Ex e dual-certified for both flameproof and increased safety applications. Precision-machined flame path ensures gas cooling below ignition temperature in the event of an internal explosion. Supplied with matched silicone O-ring and serrated lock washer. Full batch traceability from mill heat number through final micrometer inspection.",
+    "shortDescription": "M25 ATEX/IECEx dual-certified 316L SS barrier cable gland, Ex d/Ex e, machined from solid bar.",
+    "price": 85,
+    "material": "CNC Machined 316L Solid Bar Stock",
+    "materialGrade": "316L Stainless Steel",
+    "exProofRating": "Ex d IIC Gb / Ex e IIC Gb (dual certified)",
+    "ipRating": "IP68",
+    "tempRange": "-60°C to +130°C",
+    "weight": "0.35 kg net",
+    "finish": "Electropolished 316L",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "85 mm overall length",
+      "usableDiameter": "M25 × 1.5 mm thread",
+      "maxCameraSize": "Cable OD range: 9.5–16.0 mm",
+      "windowThickness": "N/A"
+    },
+    "externalDimensions": {
+      "totalLength": "85 mm",
+      "bodyDiameter": "38 mm across flats (hex)",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "Compatible with all EXPTZ/EXJB enclosure entries",
+      "M25 × 1.5 mm pitch thread — ISO metric standard",
+      "Cable OD: 9.5mm to 16.0mm (standard insert)",
+      "Alternative inserts: 7.0–11.5mm, 12.5–20.5mm",
+      "Delrin compression cone — no cable jacket damage"
+    ],
+    "features": [
+      "316L solid bar stock — no porosity from casting",
+      "CNC-machined flame path: tolerance < 0.03mm",
+      "Dual Ex d/Ex e certification for flexible deployment",
+      "Silicone O-ring rated -60°C to +200°C",
+      "Delrin compression cone — grips without cutting jacket",
+      "Serrated stainless lock washer — anti-vibration",
+      "Full PMI traceability — material cert included",
+      "Available: M16, M20, M25, M32, M40 sizes"
+    ],
+    "applications": [
+      "Explosion-Proof Enclosure Cable Entry",
+      "Junction Box Armoured Cable Termination",
+      "LNG Cryogenic Cable Sealing",
+      "Offshore Platform Cable Transits",
+      "Chemical Plant Instrument Cable Glanding"
+    ],
+    "imagePlaceholder": "excg-ss316l-m25",
+    "featured": true
+  },
+  {
+    "id": "excg-ss304-m20",
+    "name": "EXCG-SS304 M20",
+    "slug": "excg-ss304-m20",
+    "category": "cable-gland",
+    "categoryName": "Cable Gland",
+    "description": "Cost-optimized M20 ATEX-certified cable gland for bulk Zone 2 deployments. SS304 machined bar stock with Ex e increased safety certification. Designed for field instrument and lighting circuit cable entry where M20 thread is standard. Supplied with matched brass locknut and earth tag. Full certification pack included — ready for Middle East and Africa EPC project material submittal.",
+    "shortDescription": "M20 cost-optimized ATEX cable gland, SS304, Ex e certified for bulk Zone 2 field instrument wiring.",
+    "price": 45,
+    "material": "CNC Machined SS304 Bar Stock + Brass Locknut",
+    "materialGrade": "304 Stainless Steel",
+    "exProofRating": "Ex e IIC Gb",
+    "ipRating": "IP66 / IP68 (with matched seal)",
+    "tempRange": "-40°C to +110°C",
+    "weight": "0.22 kg net",
+    "finish": "Natural SS304 machined finish",
+    "certifications": ["ATEX 2014/34/EU", "IECEx", "ISO 9001:2015"],
+    "internalDimensions": {
+      "usableLength": "65 mm overall length",
+      "usableDiameter": "M20 × 1.5 mm thread",
+      "maxCameraSize": "Cable OD: 7.0–12.0 mm",
+      "windowThickness": "N/A"
+    },
+    "externalDimensions": {
+      "totalLength": "65 mm",
+      "bodyDiameter": "31 mm across flats (hex)",
+      "sunshieldWidth": "N/A"
+    },
+    "compatibility": [
+      "Compatible with EXJB-SS304 4-Way entries",
+      "M20 × 1.5 mm pitch — fits all standard hazardous area enclosures",
+      "Cable OD: 7.0mm to 12.0mm",
+      "Brass locknut + stainless earth tag included",
+      "Optional armour clamping ring (+$18)"
+    ],
+    "features": [
+      "SS304 bar stock — seamless machined body",
+      "Ex e certification for increased safety zones",
+      "Neoprene sealing ring — oil & UV resistant",
+      "Serrated brass locknut — positive earth connection",
+      "Complete certification pack for EPC submittal",
+      "Competitive pricing for 100+ unit orders",
+      "Standard 2-week delivery (stock held in Dubai & Lagos)",
+      "Available: M16, M20, M25, M32"
+    ],
+    "applications": [
+      "Field Instrument Transmitter Cable Entry",
+      "Zone 2 Lighting Circuit Cable Glanding",
+      "Junction Box Signal Cable Termination",
+      "Gas Detector Sensor Cable Sealing",
+      "Bulk EPC Project Material Packages"
+    ],
+    "imagePlaceholder": "excg-ss304-m20",
+    "featured": false
+  }
+]

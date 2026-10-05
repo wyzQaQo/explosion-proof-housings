@@ -1,0 +1,110 @@
+[
+  {
+    "id": "atex-2014-34-eu",
+    "name": "ATEX 2014/34/EU",
+    "fullName": "ATEX Directive 2014/34/EU — Equipment for Explosive Atmospheres",
+    "category": "european",
+    "icon": "flame",
+    "description": "The ATEX directive is the mandatory European Union standard for equipment intended for use in potentially explosive atmospheres. All our explosion-proof housings are certified under Annex III (Type Examination) and Annex VII (Production Quality Assurance) of directive 2014/34/EU.",
+    "applicableProducts": ["exptz-316l-pro", "exptz-compact", "exptz-pan-tilt-hd", "exptz-economy-ss304"],
+    "technicalDetails": {
+      "equipmentGroup": "II — Non-mining applications",
+      "category": "2G (Zone 1) / 2D (Zone 21)",
+      "protectionMethod": "Ex d — Flameproof Enclosure (EN 60079-1:2014)",
+      "gasGroup": "IIC — Hydrogen & Acetylene capable",
+      "temperatureClass": "T6 — Maximum surface temperature ≤ 85°C",
+      "dustProtection": "Ex tb IIIC — Dust ignition protection by enclosure",
+      "ambientTemp": "Ta -40°C to +60°C (standard), extended ranges available",
+      "notifiedBody": "TUV SUD / SGS / Baseefa (varies by model)"
+    },
+    "markingExample": "II 2G Ex d IIC T6 Gb\nII 2D Ex tb IIIC T80°C Db\nTa -40°C to +60°C\nManufacturer: ExProof Engineering (Shenzhen) Co., Ltd."
+  },
+  {
+    "id": "iecex",
+    "name": "IECEx",
+    "fullName": "IECEx System for Certification to Standards Relating to Equipment for Use in Explosive Atmospheres",
+    "category": "international",
+    "icon": "globe",
+    "description": "IECEx is the International Electrotechnical Commission's global certification system. It provides a single international certificate of conformity accepted in over 35 participating countries including Australia, Brazil, Canada, China, Singapore, South Korea, and South Africa — eliminating the need for multiple national certifications.",
+    "applicableProducts": ["exptz-316l-pro", "exptz-compact", "exptz-pan-tilt-hd"],
+    "technicalDetails": {
+      "standard": "IEC 60079-0:2017 (General Requirements)",
+      "flameproofStandard": "IEC 60079-1:2014 (Flameproof Enclosures 'd')",
+      "dustStandard": "IEC 60079-31:2013 (Equipment Dust Ignition Protection by Enclosure 't')",
+      "certificateType": "IECEx CoC (Certificate of Conformity)",
+      "qualityAssessment": "IECEx QAR (Quality Assessment Report)",
+      "acceptedIn": "35+ participating countries, recognized by UNECE",
+      "testingLab": "IECEx-approved Testing Laboratory (ExTL)"
+    },
+    "markingExample": "Ex d IIC T6 Gb\nEx tb IIIC T80°C Db\nIECEx TPS XX.XXXX\nTa -40°C to +60°C"
+  },
+  {
+    "id": "ul-1203",
+    "name": "UL 1203",
+    "fullName": "UL 1203 — Explosion-Proof and Dust-Ignition-Proof Electrical Equipment for Use in Hazardous Locations",
+    "category": "north-american",
+    "icon": "shield-check",
+    "description": "UL 1203 is the North American standard for explosion-proof equipment, covering Class I Division 1 & 2 hazardous locations. Our UL-listed housings include the required NEC/CEC classification markings, enabling direct deployment in US and Canadian facilities without additional field evaluation.",
+    "applicableProducts": ["exptz-316l-pro", "exptz-compact"],
+    "technicalDetails": {
+      "classIDiv1": "Class I, Division 1, Groups B, C, D — Gases & Vapors (NEC 500)",
+      "classIDiv2": "Class I, Division 2, Groups B, C, D — Abnormal conditions",
+      "classIIDiv1": "Class II, Division 1, Groups E, F, G — Combustible Dusts",
+      "zoneSystem": "Class I, Zone 1, AEx d IIC T6 Gb (NEC 505 alternative marking)",
+      "temperatureCode": "T6 — Maximum 85°C at 40°C ambient",
+      "standardRef": "UL 1203, 7th Edition (2018) + CSA C22.2 No. 30",
+      "listingBody": "UL LLC / CSA Group"
+    },
+    "markingExample": "Class I, Div 1, Groups B, C, D T6\nClass II, Div 1, Groups E, F, G T6\nClass I, Zone 1, AEx d IIC T6 Gb\nTa -40°C to +60°C\nUL Listed EXXXXXX"
+  },
+  {
+    "id": "ip68-ip69k",
+    "name": "IP68 / IP69K",
+    "fullName": "Ingress Protection Rating — IEC 60529 / ISO 20653",
+    "category": "environmental",
+    "icon": "droplets",
+    "description": "Our IP68 rating certifies continuous submersion protection (tested at 2 meters for 72+ hours). IP69K (optional) adds protection against high-pressure, high-temperature water jets (80°C at 80-100 bar, 4 angles) — critical for CIP/SIP cleaning in food, pharmaceutical, and chemical processing environments.",
+    "applicableProducts": ["exptz-316l-pro", "marinepro-ss304", "marinecorr-titanium", "exptz-pan-tilt-hd"],
+    "technicalDetails": {
+      "ip68Standard": "IEC 60529 — Continuous immersion beyond 1m depth",
+      "ip68Test": "Submerged at 2m depth for 72 hours, no water ingress",
+      "ip69kStandard": "ISO 20653 — Road vehicles, but adopted for industrial",
+      "ip69kTest": "80°C water, 80-100 bar, 100-150 mm distance, 4 angles × 30 sec",
+      "sealingMethod": "Silicone rubber O-ring dual-seal system, each joint independently tested",
+      "testingLab": "In-house pressure chamber + SGS annual verification"
+    }
+  },
+  {
+    "id": "iso-9001",
+    "name": "ISO 9001:2015",
+    "fullName": "Quality Management Systems — ISO 9001:2015",
+    "category": "quality",
+    "icon": "badge-check",
+    "description": "Our entire manufacturing facility operates under an ISO 9001:2015 certified quality management system. From incoming 316L raw material verification (PMI testing per heat) to final inspection dimensional reports (FAIR per AS9102), every housing is fully traceable to its material certificate and production batch.",
+    "applicableProducts": ["all"],
+    "technicalDetails": {
+      "scope": "Design, manufacture, and testing of stainless steel explosion-proof camera housings and marine-grade PTZ enclosures",
+      "materialTraceability": "PMI (Positive Material Identification) on 100% of raw material",
+      "inspectionReport": "FAIR (First Article Inspection Report) per AS9102 for each order",
+      "dimensionalReport": "CMM (Coordinate Measuring Machine) verification on critical dimensions",
+      "pressureTest": "Hydrostatic pressure test at 1.5× design pressure, each housing",
+      "certBody": "SGS / TUV Rheinland"
+    }
+  },
+  {
+    "id": "iso-14001",
+    "name": "ISO 14001:2015",
+    "fullName": "Environmental Management Systems",
+    "category": "quality",
+    "icon": "leaf",
+    "description": "ExProof Engineering Center maintains ISO 14001:2015 certification across all manufacturing operations. Stainless steel production scrap is 100% recycled through certified metal recovery. Electropolishing process wastewater is treated through a closed-loop zero-liquid-discharge system. All packaging is FSC-certified and designed for minimal material usage.",
+    "applicableProducts": ["all"],
+    "technicalDetails": {
+      "scrapRecycling": "100% stainless steel scrap recycled (certified chain of custody)",
+      "wastewater": "Zero liquid discharge — closed-loop electropolishing effluent treatment",
+      "packaging": "FSC-certified, 85% recycled content, designed for reusability",
+      "energy": "40% of factory power from rooftop solar PV (1.2 MW installed capacity)",
+      "chemicals": "REACH-compliant passivation solutions, RoHS 3 compliant components"
+    }
+  }
+]

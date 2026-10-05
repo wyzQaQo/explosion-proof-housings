@@ -1,0 +1,108 @@
+{
+  "homepage": [
+    {
+      "question": "What is an explosion-proof camera housing?",
+      "answer": "An explosion-proof camera housing is a specially engineered stainless steel enclosure designed to contain any internal explosion and prevent flame propagation into the surrounding hazardous atmosphere. Our housings are ATEX/IECEx/UL certified with Ex d IIC T6 Gb rating, meaning they can withstand internal explosions from hydrogen and acetylene gas mixtures (gas group IIC) and maintain surface temperatures below 85°C (T6 class). Each housing is investment-cast from 316L or 304 stainless steel and individually hydrostatic pressure tested."
+    },
+    {
+      "question": "Which certifications does ExProof Engineering hold?",
+      "answer": "We hold ATEX 2014/34/EU (EU Type Examination), IECEx Certificate of Conformity (international, accepted in 35+ countries), UL 1203 listing (North America), IP68/IP69K ingress protection, ISO 9001:2015 quality management, and ISO 14001:2015 environmental management. All products ship with EN 10204 3.1 material certificates, hydrostatic pressure test reports, and dimensional FAIR documentation."
+    },
+    {
+      "question": "Do you ship to the Middle East, USA, and Africa?",
+      "answer": "Yes. We maintain regional warehouse stock in Dubai (UAE), Houston (USA), and Lagos (Nigeria) for rapid delivery. Our products are fully certified for each market: ADNOC/Aramco 9COM compliance for the Middle East, UL 1203 listing for the USA, and SONCAP certification for Africa. We offer local currency billing and freight forwarding in all three regions."
+    },
+    {
+      "question": "What industries use explosion-proof equipment?",
+      "answer": "Our primary markets are oil field drilling and production facilities, LNG liquefaction and regasification plants, and chemical processing plants. Additional applications include offshore platforms, border surveillance, pharmaceutical manufacturing, grain handling facilities, and paint spray booths — anywhere flammable gases, vapors, or combustible dusts create a Zone 1 or Zone 2 hazardous area classification."
+    },
+    {
+      "question": "Can you provide white-label/OEM hardware?",
+      "answer": "Absolutely. We are a white-label manufacturer — all housings ship without external branding. We provide complete certification packs, material traceability documentation, and pressure test reports ready for your EPC project submission. We are prepared to sign mutual NDA before quotation and are fully NDAA Section 889 compliant."
+    }
+  ],
+  "products": [
+    {
+      "question": "What is the difference between explosion-proof and marine-grade housings?",
+      "answer": "Explosion-proof housings (EXPTZ series) are ATEX/IECEx certified with flameproof Ex d protection method for Zone 1/2 hazardous gas atmospheres. Marine-grade housings (MarinePro/MarineCorr series) are optimized for C5-M salt spray corrosion resistance with nano-ceramic coatings and typhoon-class wind load ratings, but are not ATEX certified. Choose based on your primary hazard: gas explosion risk → EXPTZ; saltwater corrosion → MarinePro."
+    },
+    {
+      "question": "What camera brands are compatible with your housings?",
+      "answer": "Our housings are pre-designed for Axis (Q60, Q61, Q62, P56 series), Bosch (MIC IP, Flexidome), Hanwha (WiseNet X, PNM-9085), Hikvision (DS-2DF, Darkfighter), Dahua (SD6C), and FLIR thermal cameras. For any other brand, our custom CNC bracket service will design and machine a precision adapter from your camera's 3D CAD model — typically 48-hour turnaround."
+    },
+    {
+      "question": "What is the minimum order quantity (MOQ)?",
+      "answer": "Standard MOQ is 1 unit for evaluation and prototype orders. For bulk deployments, we offer volume discount pricing starting at 10 units, with best pricing at 50+ units. Our EXPTZ-Economy SS304 drops to $950/unit at 20+ quantity. Lead time is 4-6 weeks for standard orders, 8-10 weeks for 100+ unit EPC project orders."
+    },
+    {
+      "question": "What material grades do you use and why?",
+      "answer": "We use 316L (EN 1.4404) for premium corrosion resistance, especially in sour gas (H₂S) and marine environments. 304 (EN 1.4301) is used for cost-optimized Zone 2 deployments in desert or non-marine environments. For the most extreme conditions, we offer Grade 2 commercially pure titanium (ASTM B348) which is completely immune to chloride stress corrosion cracking with a 25+ year design life in seawater."
+    },
+    {
+      "question": "Do you offer explosion-proof lights, junction boxes, and cable glands?",
+      "answer": "Yes. We are a complete hazardous area electrical supplier. Our product range includes ATEX-certified LED floodlights (100W/50W), Ex e junction boxes (4-way and 6-way), and Ex d/Ex e dual-certified cable glands in M16 through M40 sizes. Ordering your complete electrical package from one vendor means unified certification documentation and consolidated volume discount pricing."
+    }
+  ],
+  "solutions": [
+    {
+      "question": "What is Zone 1 vs Zone 2 in hazardous area classification?",
+      "answer": "Zone 1 is an area where an explosive gas atmosphere is likely to occur during normal operation (>10 hours/year, <1,000 hours/year). Zone 2 is where it is unlikely during normal operation and only persists for short periods (<10 hours/year). Our Ex d IIC T6 Gb housings are certified for both Zone 1 and Zone 2, while our Ex e junction boxes are suitable for Zone 2 increased safety applications."
+    },
+    {
+      "question": "How do your enclosures prevent gas explosions?",
+      "answer": "Our enclosures use the Ex d flameproof protection method. The housing is engineered with precision-machined flame paths (gaps < 0.03mm tolerance) between the body and lid. If flammable gas enters and ignites inside, the explosion is contained. Escaping gases are forced through the flame path, which cools them below the auto-ignition temperature before they reach the external atmosphere — the same principle used in industrial flame arrestors."
+    },
+    {
+      "question": "What maintenance does explosion-proof equipment require?",
+      "answer": "Routine maintenance includes: (1) visual inspection of flame path surfaces for corrosion or damage — any pitting invalidates the Ex certification; (2) O-ring inspection and replacement every 2 years; (3) cable gland compression check during annual safety audits; (4) earth bonding continuity test per IEC 60079-14. Our quick-release wiper blade system enables single-person replacement in 90 seconds without opening the sealed enclosure."
+    },
+    {
+      "question": "Can your housings operate in extreme temperatures?",
+      "answer": "Standard operating range is -40°C to +60°C (ambient). The integrated PTC heater self-regulates power based on temperature, preventing condensation and lens fogging at low temperatures without a mechanical thermostat that could fail. The forced convection sunshield design reduces internal temperature by up to 15°C in desert sun. Extended temperature ranges available on request."
+    }
+  ],
+  "certifications": [
+    {
+      "question": "What does Ex d IIC T6 Gb mean?",
+      "answer": "This is the complete ATEX/IECEx equipment marking: 'Ex' = explosion-protected equipment; 'd' = flameproof enclosure protection method (EN 60079-1); 'IIC' = suitable for all gas groups including hydrogen and acetylene (the most volatile); 'T6' = maximum surface temperature ≤85°C (the safest temperature class); 'Gb' = Equipment Protection Level for Zone 1 (high level of protection, suitable for areas where explosive atmosphere is likely to occur)."
+    },
+    {
+      "question": "What is the difference between ATEX and IECEx?",
+      "answer": "ATEX (2014/34/EU) is the mandatory European Union directive — legally required to sell Ex equipment in the EU/EEA. IECEx is an international voluntary scheme recognized in 35+ countries including Australia, Brazil, Canada, South Africa, and Singapore. Our products carry both certifications. The technical standards are identical (IEC 60079 series), but IECEx provides a single global certificate instead of multiple national approvals."
+    },
+    {
+      "question": "How does UL 1203 differ from ATEX/IECEx?",
+      "answer": "UL 1203 is the North American standard using the NEC/CEC zone and division system. It covers Class I Division 1 & 2 (NEC 500) and Class I Zone 1 AEx d IIC T6 (NEC 505 alternative marking). While ATEX/IECEx are accepted for reference, US and Canadian installations legally require UL or CSA listing. Our UL-listed products include the required NEC/CEC markings for direct deployment without additional field evaluation."
+    },
+    {
+      "question": "What is IP68 vs IP69K and why does it matter?",
+      "answer": "IP68 means the enclosure is dust-tight (6) and protected against continuous water immersion (8) — tested at 2 meters depth for 72+ hours. IP69K adds protection against high-pressure (80-100 bar), high-temperature (80°C) water jets from four angles — critical for CIP/SIP chemical washdown in food, pharmaceutical, and chemical processing. Both ratings are achieved through dual silicone O-ring seals at every joint."
+    },
+    {
+      "question": "How do you guarantee material quality?",
+      "answer": "100% of incoming raw material undergoes PMI (Positive Material Identification) using handheld XRF analysis. Each heat of 316L is verified for molybdenum content (>2.5%) to confirm it is not accidentally substituted with lower-grade 304. Every housing receives a hydrostatic pressure test at 1.5× design pressure with 30-minute hold time. Critical dimensions are verified on a CMM (Coordinate Measuring Machine). Full EN 10204 3.1 material certificates are included with every shipment."
+    }
+  ],
+  "contact": [
+    {
+      "question": "How quickly will I receive a quotation?",
+      "answer": "Standard RFQ response time is 12 business hours. For urgent project tenders, call +86-755-8888-6688 (GMT+8, Mon-Sat 08:00-18:00) for priority handling. Custom CNC bracket quotations with CAD review take 48 hours. Package RFQs (multiple product lines) take 2-3 business days for consolidated pricing."
+    },
+    {
+      "question": "Do you sign NDAs before quotation?",
+      "answer": "Yes, we routinely sign mutual Non-Disclosure Agreements before detailed technical discussions. This protects your project specifications, camera integration details, and deployment locations. We can work with your standard NDA template or provide ours. The NDA covers all CAD files, technical drawings, and project documents you submit through our secure upload system."
+    },
+    {
+      "question": "What file formats do you accept for CAD uploads?",
+      "answer": "We accept .STEP, .STP, .DWG, .DXF, .IGES, and .STL 3D/2D CAD formats, plus .PDF for specification sheets. Maximum 50MB per file, up to 5 files per submission. All uploads are transmitted over TLS 1.3 encrypted channel and stored on access-controlled cloud storage with automatic expiration. Files are used exclusively for your custom bracket quotation and never shared with third parties."
+    },
+    {
+      "question": "What payment terms do you offer for EPC projects?",
+      "answer": "Standard terms: 30% advance payment with order, 70% before shipment (FOB Shenzhen). For established EPC contractors, we offer letter of credit (L/C at sight) and 30-day net payment terms after approval. We can invoice in USD, EUR, AED, and NGN. Volume orders (50+ units) may qualify for milestone-based payment: 30% down, 30% at production completion, 40% at shipment."
+    },
+    {
+      "question": "Do you offer on-site commissioning support?",
+      "answer": "Yes. Our field engineers can travel to your site for installation supervision, commissioning, and Ex inspection certification. We have deployed teams to Saudi Arabia, UAE, Nigeria, Angola, and Qatar. Remote commissioning support via video call is included free with every order. On-site support is quoted per project based on location and duration."
+    }
+  ]
+}

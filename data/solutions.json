@@ -1,0 +1,109 @@
+[
+  {
+    "id": "oil-gas",
+    "name": "Oil & Gas Refinery",
+    "slug": "oil-gas",
+    "icon": "flame",
+    "heroImage": "solutions/oil-gas-hero",
+    "headline": "Zero-Ignition Surveillance for Zone 1 Hazardous Areas",
+    "subheadline": "ATEX-certified enclosures engineered to contain internal explosions and prevent flame propagation in gas groups IIC — the most volatile category including hydrogen and acetylene.",
+    "challenges": [
+      {
+        "title": "Explosive Gas Atmospheres",
+        "description": "Refineries and petrochemical plants are classified as Zone 1 or Zone 2 hazardous areas where flammable gas-air mixtures are likely to occur during normal operations. Standard camera equipment poses a deadly ignition risk — a single spark from electronics can trigger a catastrophic vapor cloud explosion.",
+        "ourSolution": "EXPTZ series flameproof enclosures (Ex d IIC T6) are designed to withstand internal explosions and cool escaping gases below the auto-ignition temperature through precision-machined flame paths. The T6 temperature class ensures maximum surface temperature never exceeds 85°C — well below the 100°C limit for T5 gases."
+      },
+      {
+        "title": "Corrosion from H₂S & SO₂",
+        "description": "Sour crude processing releases hydrogen sulfide (H₂S) and sulfur dioxide (SO₂), which aggressively attack common metals. Even standard stainless steel grades show pitting corrosion within 6-12 months in sour gas environments.",
+        "ourSolution": "316L investment-cast bodies with post-casting solution annealing eliminate chromium carbide precipitation at grain boundaries — the primary cause of intergranular corrosion in welded housings. Electropolished surface finish removes surface iron contamination, achieving a passive chromium oxide layer."
+      },
+      {
+        "title": "Remote Monitoring & Low-Light Performance",
+        "description": "Pipeline corridors span hundreds of kilometers with no infrastructure. Night operations require thermal imaging capability for gas leak detection and intruder identification in zero-light conditions.",
+        "ourSolution": "Our enclosures accommodate dual-sensor payloads (visible + thermal) with dedicated germanium and borosilicate windows. Integrated fiber optic rotary joints enable uninterrupted fiber connectivity even during continuous 360° pan rotation."
+      }
+    ],
+    "recommendedProducts": ["exptz-316l-pro", "exptz-pan-tilt-hd", "exptz-economy-ss304"],
+    "whiteLabelMessage": "We provide fully white-label hardware support, enabling seamless integration into your existing NDAA-compliant security project. Our housings ship without any external branding and include full material certs, pressure test reports, and dimensional inspection data ready for your customer's compliance package."
+  },
+  {
+    "id": "marine-offshore",
+    "name": "Marine & Offshore Platform",
+    "slug": "marine-offshore",
+    "icon": "anchor",
+    "heroImage": "solutions/marine-hero",
+    "headline": "Salt-Spray Proof Enclosures Engineered for 25+ Years at Sea",
+    "subheadline": "C5-M corrosion category certified housings that survive Category 4 typhoon wind loads, salt fog, and direct wave impact — backed by independent 5000+ hour neutral salt spray test reports.",
+    "challenges": [
+      {
+        "title": "Chloride-Induced Stress Corrosion Cracking",
+        "description": "In tropical marine environments, the combination of salt-laden atmosphere (>500 mg/m²/day chloride deposition), high ambient temperature (35°C+), and relative humidity (>85%) creates ideal conditions for chloride stress corrosion cracking (Cl-SCC) in austenitic stainless steels. Standard 304 begins showing stress cracks within 18-24 months.",
+        "ourSolution": "Our MarinePro SS304 uses controlled low-carbon 304 (0.03% C max) with post-weld solution annealing. For extreme splash-zone applications, MarineCorr Ti Grade 2 housings are completely immune to Cl-SCC, crevice corrosion, and pitting — providing a 25+ year design life with zero material degradation."
+      },
+      {
+        "title": "Typhoon & Hurricane Wind Loading",
+        "description": "Offshore platforms and port installations face wind gusts exceeding 240 km/h during Category 4 typhoons. Standard camera housings deform, crack at mounting points, or tear away entirely — causing both equipment loss and potential FOD (foreign object debris) hazards on helidecks.",
+        "ourSolution": "All marine housings are wind-tunnel validated at 240 km/h sustained with 300 km/h gust safety factor (1.5× design load). FEA-optimized mounting brackets distribute stress across 8-point bolt patterns using 316L studs, not standard carbon steel fasteners that would galvanically corrode."
+      },
+      {
+        "title": "Maintenance Access in Hazardous Locations",
+        "description": "Offshore maintenance windows are measured in hours, not days. Every maintenance visit requires helicopter transfer or crew boat mobilization costing $5,000-$50,000 per trip. Housings that require frequent cleaning or part replacement are economically unviable.",
+        "ourSolution": "Our quick-release wiper blade system enables single-person blade replacement in under 90 seconds without opening the sealed enclosure. The nano-ceramic overcoat on MarinePro housings repels salt deposits, reducing cleaning frequency by 70% compared to standard powder-coated housings."
+      }
+    ],
+    "recommendedProducts": ["marinepro-ss304", "marinecorr-titanium", "exptz-316l-pro"],
+    "whiteLabelMessage": "We support full OEM integration with your existing marine security systems. All housings include DNV GL material traceability, NORSOK M-650 qualified material certifications, and complete Factory Acceptance Test documentation suitable for major EPC project submission."
+  },
+  {
+    "id": "border-security",
+    "name": "Border & Critical Infrastructure",
+    "slug": "border-security",
+    "icon": "shield",
+    "heroImage": "solutions/border-hero",
+    "headline": "NDAA-Compliant Surveillance Enclosures for National Security Applications",
+    "subheadline": "Fully white-label housings engineered to US NDAA Section 889 compliance requirements, with complete material and manufacturing origin traceability for government procurement packages.",
+    "challenges": [
+      {
+        "title": "NDAA Section 889 Compliance",
+        "description": "U.S. federal procurement (FAR 52.204-25) prohibits the use of covered telecommunications equipment or services. Government contractors and system integrators must demonstrate that every component — including the camera housing — does not contain prohibited technology from specified Chinese manufacturers.",
+        "ourSolution": "We are the housing manufacturer, not a system integrator. Our products contain no electronic components — only inert 316L/304 stainless steel castings with mechanical seals. We provide a signed NDAA compliance letter certifying our housings contain no covered telecommunications equipment. Our hardware is a structural component, not an IT system."
+      },
+      {
+        "title": "Remote Desert & Arctic Deployment",
+        "description": "Border surveillance covers the world's most extreme climates: from Saudi desert (55°C ambient, sand abrasion) to Arctic Alaska (-50°C, ice loading). Equipment failure means a 12-hour desert drive or helicopter flight for replacement — often in hostile territory.",
+        "ourSolution": "Our thermal management system uses a closed-loop PTC heater array that self-regulates power output based on ambient temperature. No mechanical thermostat to fail. The sunshield design creates a forced convection chimney effect, reducing internal temperature by 15°C in direct desert sun without requiring additional fan power."
+      },
+      {
+        "title": "Ballistic & Physical Attack Resistance",
+        "description": "Border camera installations are targets for vandalism, small arms fire, and explosive tampering. Standard aluminum or plastic housings provide zero physical security against deliberate attack.",
+        "ourSolution": "12 mm borosilicate sight glass (with 14 mm sapphire option on MarineCorr Ti) provides IK10+ impact resistance — exceeding EN 62262 requirements. The 316L cast body wall thickness (minimum 8 mm) resists small arms fire from intermediate distances. Tamper-proof security fasteners with proprietary drive patterns prevent unauthorized access."
+      }
+    ],
+    "recommendedProducts": ["exptz-pan-tilt-hd", "exptz-316l-pro", "marinecorr-titanium"],
+    "whiteLabelMessage": "All border security housings are delivered with zero external branding, NDAA compliance letter, material origin certificates (mill test reports per heat number), and full dimensional inspection data. We are prepared to sign mutual NDA and government end-user certificates before quotation."
+  },
+  {
+    "id": "chemical",
+    "name": "Chemical Processing",
+    "slug": "chemical",
+    "icon": "beaker",
+    "heroImage": "solutions/chemical-hero",
+    "headline": "Chemical-Resistant Enclosures for Aggressive Process Environments",
+    "subheadline": "Purpose-engineered housings resistant to hydrochloric acid, caustic soda, chlorine gas, and organic solvent vapors — with IP69K protection for CIP/SIP washdown compatibility.",
+    "challenges": [
+      {
+        "title": "Chemical Vapor Attack",
+        "description": "Chemical plants contain aggressive vapor atmospheres — HCl from chlor-alkali processes, NaOH mists from caustic handling, and organic solvent vapors from pharmaceutical synthesis. These attack standard elastomer seals, causing hardening, swelling, or complete dissolution within weeks.",
+        "ourSolution": "Our chemical-grade sealing system uses FFKM (perfluoroelastomer) O-rings — the same material used in semiconductor wafer processing. FFKM provides near-PTFE chemical resistance with the elasticity required for IP68 sealing. Available as an option on all EXPTZ and MarineCorr housings."
+      },
+      {
+        "title": "CIP/SIP High-Pressure Washdown",
+        "description": "Food, beverage, and pharmaceutical processing requires daily Clean-in-Place (CIP) and Steam-in-Place (SIP) cycles. These involve 85°C caustic solutions at 15 bar pressure followed by 130°C saturated steam — conditions that destroy standard IP66-rated equipment.",
+        "ourSolution": "IP69K rating means our housings survive 80°C water at 80-100 bar from four angles — meeting the most demanding washdown requirements. The fully electropolished internal surface eliminates crevices where bacteria could harbor, enabling pharmaceutical-grade cleanliness validation."
+      }
+    ],
+    "recommendedProducts": ["exptz-316l-pro", "marinecorr-titanium", "exptz-compact"],
+    "whiteLabelMessage": "Chemical industry housings include full FDA 21 CFR compliant material declarations for food-contact applications, USP Class VI certification for pharmaceutical use, and complete elastomer compatibility data for your specific process chemistry."
+  }
+]
