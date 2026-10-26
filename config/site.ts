@@ -3,8 +3,8 @@ export const siteConfig = {
   shortName: "ExProof",
   description:
     "Specialized manufacturer of explosion-proof and marine-grade PTZ camera housings. ATEX, IECEx, UL certified. Custom CNC stainless steel enclosures for extreme industrial environments.",
-  url: "https://exproof-housings.com",
-  ogImage: "https://exproof-housings.com/og.jpg",
+  url: "https://100excam.com",
+  ogImage: "https://100excam.com/og.jpg",
   links: {
     email: "engineering@exproof-housings.com",
     phone: "+86-755-8888-6688",
